@@ -1,0 +1,17 @@
+{
+  "name": "majorprojectpw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "Testcases":"npx playwright test TestCasesDemo.spec.js --headed",
+    "Tests":"npx playwright test TestingDemo.spec.js --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.14"
+  }
+}
