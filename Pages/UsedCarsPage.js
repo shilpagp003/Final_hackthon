@@ -28,8 +28,8 @@ async preferredLocation(city) {
   await this.cityInput.click();
   await this.cityInput.fill("");
   await this.page.waitForTimeout(500); 
-  await this.cityInput.type(city, { delay: 100 });
-
+  // await this.cityInput.type(city, { delay: 100 });
+  await this.cityInput.pressSequentially(city, { delay: 100 });
   // Wait for suggestion list to appear
   await  this.suggestions.first().waitFor({ state: "visible", timeout: 20000 });
   await  this.suggestions.screenshot({path:"Screenshots/CItyInput.jpg"});

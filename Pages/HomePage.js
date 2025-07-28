@@ -13,6 +13,8 @@ export class HondaPage {
     this.bikeRates = this.page.locator(".b fnt-15");
     this.bikeExpectedDate = this.page.locator("//div[@class='clr-try fnt-14']");
   }
+
+  //to navigate to the zingwheel.com
   async navigateToUrl(baseURL) {
     await this.page.goto(baseURL, { waituntil: "networkidle" });
   }
@@ -20,7 +22,9 @@ export class HondaPage {
     await expect(this.page).toHaveURL(/zigwheels\.com/);
     await expect(this.page).toHaveTitle(/ZigWheels/);
   }
-  async upcomingBikesFilter() {
+
+  //to click on upcoming bikes
+  async upcomingBikesFilter() {                         
     await this.page.waitForTimeout(5000);
     await this.upcomingBikes.waitFor();
     await this.upcomingBikes.scrollIntoViewIfNeeded();
@@ -28,12 +32,14 @@ export class HondaPage {
     await this.upcomingBikes.click();
   }
 
+  //to click on all upcoming bikes
   async upcomingHondaBike() {
     await this.page.waitForTimeout(2000);
     await this.allUpcomingBikes.click();
     await this.hondaFilter.click();
   }
 
+  //to fetch honda bike data 
   async bikeData() {
     const allbikecards = await this.page.locator("#modelList li.modelItem");
     const allBikes = [];

@@ -1,1 +1,51 @@
-[]
+{
+  "allBikes": [
+    {
+      "BikeName": "Honda Shine 100 DX",
+      "BikePrice": "72000",
+      "BikeExpectedDate": "Expected Launch : Jul 2025"
+    },
+    {
+      "BikeName": "Honda CB 125 Hornet",
+      "BikePrice": "100000",
+      "BikeExpectedDate": "Expected Launch : Jul 2025"
+    },
+    {
+      "BikeName": "Honda CBR500R",
+      "BikePrice": "550000",
+      "BikeExpectedDate": "Expected Launch : Oct 2025"
+    },
+    {
+      "BikeName": "Honda CB500F",
+      "BikePrice": "500000",
+      "BikeExpectedDate": "Expected Launch : Oct 2025"
+    },
+    {
+      "BikeName": "Honda Activa 7G",
+      "BikePrice": "79000",
+      "BikeExpectedDate": "Expected Launch : Oct 2025"
+    },
+    {
+      "BikeName": "Honda CL500 Scrambler",
+      "BikePrice": "600000",
+      "BikeExpectedDate": "Expected Launch : Dec 2025"
+    }
+  ],
+  "selectedBikes": [
+    {
+      "BikeName": "Honda Shine 100 DX",
+      "BikePrice": "72000",
+      "BikeExpectedDate": "Expected Launch : Jul 2025"
+    },
+    {
+      "BikeName": "Honda CB 125 Hornet",
+      "BikePrice": "100000",
+      "BikeExpectedDate": "Expected Launch : Jul 2025"
+    },
+    {
+      "BikeName": "Honda Activa 7G",
+      "BikePrice": "79000",
+      "BikeExpectedDate": "Expected Launch : Oct 2025"
+    }
+  ]
+}

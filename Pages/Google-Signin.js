@@ -1,6 +1,4 @@
 import { expect } from "@playwright/test";
-import { url } from "inspector";
-
 export class GooglePage{
     constructor(page){
         this.page=page;
@@ -29,7 +27,7 @@ export class GooglePage{
         const emailBox=await this.newPage.waitForSelector("#identifierId",{timeout:10000,});
         expect(emailBox).not.toBeNull();
         expect(await emailBox.isVisible()).toBe(true);
-        await emailBox.fill("dsfgjjif")
+        await emailBox.fill("dsfgjjif");
         const NextButton= await this.newPage.getByText("Next",{timeout:10000});
         expect(await NextButton.isVisible()).toBe(true);
         await NextButton.click();
