@@ -30,7 +30,7 @@ test.describe("ZigWheels total pages", async () => {
     fs.writeFileSync(FILE_PATH1, JSON.stringify([], null, 2));
     console.log(" cleares the json at the beginning of test suite");
     home = new HondaPage(page);
-    cars = new UsedCars(page);
+    cars = new UsedCars(page); 
     google = new GooglePage(page);
 
     await home.navigateToUrl(testData.BaseURL);

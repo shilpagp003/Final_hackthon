@@ -20,7 +20,7 @@ export class GooglePage{
     
         const [newPage] = await Promise.all([
         this.page.waitForEvent("popup",{timeout:15000}),
-        this.page.locator(".newgf-login").nth(1).click()
+        this.page.locator(".newgf-login").nth(1).click()  
         ]);
         this.newPage = newPage;
     

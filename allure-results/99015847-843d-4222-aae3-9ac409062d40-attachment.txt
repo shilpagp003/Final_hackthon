@@ -1,0 +1,1 @@
+ cleares the json at the beginning of test suite

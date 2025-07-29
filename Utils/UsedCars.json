@@ -17,6 +17,10 @@
         "BrandPrice": "797000"
       },
       {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
+        "BrandPrice": "647000"
+      },
+      {
         "BrandName": "Maruti Swift 2021-2024 Maruti Swift VXI BSVI",
         "BrandPrice": "645000"
       },
@@ -45,20 +49,12 @@
         "BrandPrice": "366000"
       },
       {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
-        "BrandPrice": "493000"
-      },
-      {
         "BrandName": "Maruti Swift 2010-2014 Maruti Swift ZXI",
         "BrandPrice": "520000"
       },
       {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "647000"
-      },
-      {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "590000"
+        "BrandName": "Maruti Swift 2021-2024 Maruti Swift VXI",
+        "BrandPrice": "680000"
       },
       {
         "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
@@ -99,6 +95,10 @@
       {
         "BrandName": "Maruti Swift 2014-2021 Maruti Swift VDI",
         "BrandPrice": "495000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VDI BSIV",
+        "BrandPrice": "475000"
       }
     ]
   },
@@ -106,15 +106,11 @@
     "Hyundai I10": [
       {
         "BrandName": "Hyundai i10 Hyundai i10 Era",
-        "BrandPrice": "240000"
-      },
-      {
-        "BrandName": "Hyundai i10 Hyundai i10 Era",
         "BrandPrice": "260000"
       },
       {
-        "BrandName": "Hyundai i10 Hyundai i10 Magna",
-        "BrandPrice": "210000"
+        "BrandName": "Hyundai i10 Hyundai i10 Era",
+        "BrandPrice": "240000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Magna",
@@ -129,12 +125,16 @@
         "BrandPrice": "330000"
       },
       {
-        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
-        "BrandPrice": "265000"
+        "BrandName": "Hyundai i10 Hyundai i10 Magna",
+        "BrandPrice": "210000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Sportz",
         "BrandPrice": "340000"
+      },
+      {
+        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
+        "BrandPrice": "265000"
       },
       {
         "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
@@ -150,15 +150,15 @@
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Era",
-        "BrandPrice": "300000"
-      },
-      {
-        "BrandName": "Hyundai i10 Hyundai i10 Era",
         "BrandPrice": "400000"
       },
       {
         "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
         "BrandPrice": "185000"
+      },
+      {
+        "BrandName": "Hyundai i10 Hyundai i10 Era",
+        "BrandPrice": "300000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Sportz",
@@ -176,6 +176,10 @@
   },
   {
     "Hyundai Santro Xing": [
+      {
+        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing GLS",
+        "BrandPrice": "238906"
+      },
       {
         "BrandName": "Hyundai Santro Xing Hyundai Santro Xing XO eRLX Euro II",
         "BrandPrice": "185000"
@@ -198,6 +202,10 @@
     "Honda City": [
       {
         "BrandName": "Honda City 4th Generation Honda City i-VTEC CVT ZX",
+        "BrandPrice": "905584"
+      },
+      {
+        "BrandName": "Honda City 4th Generation Honda City i-VTEC CVT ZX",
         "BrandPrice": "812137"
       },
       {
@@ -213,10 +221,6 @@
         "BrandPrice": "1050000"
       },
       {
-        "BrandName": "Honda City 2020-2023 Honda City VX CVT",
-        "BrandPrice": "1091000"
-      },
-      {
         "BrandName": "Honda City 2020-2023 Honda City VX MT",
         "BrandPrice": "1035000"
       },
@@ -225,12 +229,16 @@
         "BrandPrice": "550000"
       },
       {
-        "BrandName": "Honda City 2020-2023 Honda City VX MT",
-        "BrandPrice": "1250000"
+        "BrandName": "Honda City 2020-2023 Honda City VX CVT",
+        "BrandPrice": "1091000"
       },
       {
-        "BrandName": "Honda City 2020-2023 Honda City V CVT",
-        "BrandPrice": "975000"
+        "BrandName": "Honda City 2015-2017 Honda City i VTEC SV",
+        "BrandPrice": "550000"
+      },
+      {
+        "BrandName": "Honda City 2020-2023 Honda City VX MT",
+        "BrandPrice": "1250000"
       },
       {
         "BrandName": "Honda City 2020-2023 Honda City V MT Diesel",
@@ -245,16 +253,12 @@
         "BrandPrice": "540000"
       },
       {
-        "BrandName": "Honda City 2008-2011 Honda City 1.5 V MT",
-        "BrandPrice": "345000"
-      },
-      {
-        "BrandName": "Honda City 4th Generation Honda City i-DTEC ZX",
-        "BrandPrice": "800000"
-      },
-      {
         "BrandName": "Honda City 2020-2023 Honda City VX MT",
         "BrandPrice": "1090658"
+      },
+      {
+        "BrandName": "Honda City 2008-2011 Honda City 1.5 V MT",
+        "BrandPrice": "345000"
       },
       {
         "BrandName": "Honda City 2011-2013 Honda City V MT",
@@ -269,16 +273,16 @@
         "BrandPrice": "1150000"
       },
       {
-        "BrandName": "Honda City 4th Generation Honda City i-VTEC ZX",
-        "BrandPrice": "1100000"
-      },
-      {
         "BrandName": "Honda City 2014-2015 Honda City i DTEC SV",
         "BrandPrice": "570000"
       },
       {
         "BrandName": "Honda City 4th Generation Honda City SV MT",
         "BrandPrice": "510000"
+      },
+      {
+        "BrandName": "Honda City 4th Generation Honda City i-VTEC ZX",
+        "BrandPrice": "1100000"
       },
       {
         "BrandName": "Honda City 2011-2013 Honda City V MT",
@@ -361,12 +365,12 @@
         "BrandPrice": "995000"
       },
       {
-        "BrandName": "Toyota Fortuner Toyota Fortuner 4X2 Diesel AT",
-        "BrandPrice": "3750000"
-      },
-      {
         "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 2WD MT BSIV",
         "BrandPrice": "3000000"
+      },
+      {
+        "BrandName": "Toyota Fortuner Toyota Fortuner 4X2 Diesel AT",
+        "BrandPrice": "3750000"
       },
       {
         "BrandName": "Toyota Fortuner 2011-2016 Toyota Fortuner 4x2 Manual",
@@ -383,10 +387,6 @@
       {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 AT W10 1.99 mHawk",
         "BrandPrice": "943000"
-      },
-      {
-        "BrandName": "Mahindra XUV500 2011-2015 Mahindra XUV500 W4",
-        "BrandPrice": "550000"
       },
       {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 AT W10 AWD",
